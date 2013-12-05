@@ -1,0 +1,12 @@
+{
+  "name": "hoodie.js-assets",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~1.10.2"
+  },
+  "devDependencies": {
+    "prism.js": "https://raw.github.com/LeaVerou/prism/gh-pages/prism.js",
+    "prism.css": "https://raw.github.com/LeaVerou/prism/gh-pages/themes/prism.css"
+  },
+  "homepage": "https://github.com/hoodiehq/hoodie.js"
+}
