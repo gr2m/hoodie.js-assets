@@ -1,0 +1,14 @@
+{
+  "name": "hoodie.js-assets",
+  "version": "0.0.0",
+  "description": "hoodie.js npm box full of assets",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gr2m/hoodie.js-assets.git"
+  },
+  "author": "gr2m",
+  "bugs": {
+    "url": "https://github.com/gr2m/hoodie.js-assets/issues"
+  }
+}
